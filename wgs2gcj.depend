@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1590024625 source:f:\codeblock_pro\wgs2gcj\wgs2gcj\wgs2gcj.c
+	<math.h>
+	"wgs2gcj.h"
+	<stdio.h>
+
+1590023164 f:\codeblock_pro\wgs2gcj\wgs2gcj\wgs2gcj.h
+
+1590027620 source:f:\codeblock_pro\wgs2gcj\wgs2gcj\main.c
+	<stdio.h>
+	<stdlib.h>
+	"wgs2gcj.h"
+
